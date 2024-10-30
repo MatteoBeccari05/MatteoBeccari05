@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning SQL, PHP and C.
 - 😄 Pronouns: Becca, Beck's.
 
-![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoBeccari05&hide=contribs,prs)
