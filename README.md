@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Matteo and i live in Polesella, Italy.
 
-- 🔭 I’m currently working on Databases.
+- 🔭 I’m currently working on Databases and Socket.
 - 🌱 I’m currently learning SQL, PHP and C.
 - 😄 Pronouns: Becca, Beck's.
   
