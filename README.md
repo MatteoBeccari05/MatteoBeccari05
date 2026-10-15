@@ -76,32 +76,6 @@ flowchart LR
     F --> G
 ```
 
-<details>
-<summary><b>📚 Cosa sto studiando (clicca per aprire)</b></summary>
-<br/>
-
-| Argomento | Cosa sto approfondendo |
-|-----------|------------------------|
-| **SQL** | Query, join, normalizzazione, transazioni |
-| **PHP** | Connessione a MySQL e pagine dinamiche |
-| **C** | Puntatori, gestione della memoria, socket |
-| **Java** | Programmazione a oggetti e networking |
-
-</details>
-
-<details>
-<summary><b>🎯 I miei obiettivi per quest'anno</b></summary>
-<br/>
-
-- [x] Aprire il mio profilo GitHub
-- [ ] Completare un progetto con database e PHP
-- [ ] Scrivere un client e un server con i socket in C
-- [ ] Pubblicare almeno 3 repository ben documentate
-
-</details>
-
----
-
 ## 📊 Statistiche
 
 <div align="center">
@@ -133,11 +107,11 @@ SERPENTE DEI CONTRIBUTI
 
 <div align="center">
 
-<a href="https://github.com/MatteoBeccari05/Linguaggi_di_programmazione.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoBeccari05&repo=NOME-REPO-1&theme=tokyonight&hide_border=true" alt="Progetto 1"/>
+<a href="https://github.com/MatteoBeccari05/Linguaggi_di_programmazione">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoBeccari05&repo=Linguaggi_di_programmazione&theme=tokyonight&hide_border=true" alt="Linguaggi di programmazione"/>
 </a>
-<a href="https://github.com/MatteoBeccari05/shell_script.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoBeccari05&repo=NOME-REPO-2&theme=tokyonight&hide_border=true" alt="Progetto 2"/>
+<a href="https://github.com/MatteoBeccari05/shell_script">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoBeccari05&repo=shell_script&theme=tokyonight&hide_border=true" alt="Shell script"/>
 </a>
 
 </div>
