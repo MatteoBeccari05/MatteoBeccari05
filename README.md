@@ -24,9 +24,6 @@
 <!-- Tecnologie con icone -->
 <img src="https://skillicons.dev/icons?i=c,java,php,mysql,linux,git&perline=6" alt="Tecnologie"/>
 
-<!-- Linea decorativa sfumata -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3&section=header" width="100%" alt=""/>
-
 </div>
 
 ---
