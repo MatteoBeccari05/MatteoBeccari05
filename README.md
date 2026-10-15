@@ -68,10 +68,10 @@ Mi piace capire come funzionano i dati e come comunicano i programmi tra loro.
 ## 📌 Progetti in evidenza
 
 <p align="center">
-  <a href="https://github.com/MatteoBeccari05/NOME-REPO-1">
+  <a href="https://github.com/MatteoBeccari05/Linguaggi_di_programmazione.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoBeccari05&repo=NOME-REPO-1&theme=tokyonight&hide_border=true" alt="Progetto 1" />
   </a>
-  <a href="https://github.com/MatteoBeccari05/NOME-REPO-2">
+  <a href="https://github.com/MatteoBeccari05/shell_script.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoBeccari05&repo=NOME-REPO-2&theme=tokyonight&hide_border=true" alt="Progetto 2" />
   </a>
 </p>
