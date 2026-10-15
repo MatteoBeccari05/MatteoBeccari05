@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner con onde e stelline animate -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=280&section=header&text=Matteo%20Beccari&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Database%20%C2%B7%20Socket%20%C2%B7%20Backend%20Developer&descSize=22&descAlignY=58" alt="Matteo Beccari" width="100%"/>
+<img src="./header.svg" alt="Matteo Beccari" width="100%"/>
 
 <!-- Emoji animata che saluta -->
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="Ciao" width="60" height="60"/>
@@ -58,39 +58,6 @@ Mi chiamo **Matteo**, per tutti **Becca**, e vivo a **Polesella (RO)**. Studio p
 
 ---
 
-## 🛠️ Stack e tecnologie
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-
-</div>
-
----
-
-## 🗺️ Il mio percorso di apprendimento
-
-```mermaid
-flowchart LR
-    A([🌱 Basi]) --> B[SQL<br/>query e join]
-    B --> C[C<br/>memoria e puntatori]
-    C --> D[Socket<br/>client e server]
-    B --> E[PHP<br/>pagine dinamiche]
-    D --> F[Java<br/>networking e OOP]
-    E --> G([🚀 Backend developer])
-    F --> G
-```
-
 ## 📊 Statistiche
 
 <div align="center">
@@ -139,7 +106,6 @@ SERPENTE DEI CONTRIBUTI
 
 <a href="https://github.com/MatteoBeccari05"><img src="https://img.shields.io/badge/GitHub-MatteoBeccari05-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="mailto:ma77eo0504@gmail.com"><img src="https://img.shields.io/badge/Email-Scrivimi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/TUO-PROFILO"><img src="https://img.shields.io/badge/LinkedIn-Collegati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/><br/>
 
