@@ -1,16 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Matteo%20Beccari&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Database%20%C2%B7%20Socket%20%C2%B7%20Backend&descAlignY=62&descSize=22" alt="Matteo Beccari" width="100%"/>
+<!-- Banner con onde e stelline animate -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=280&section=header&text=Matteo%20Beccari&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Database%20%C2%B7%20Socket%20%C2%B7%20Backend%20Developer&descSize=22&descAlignY=58" alt="Matteo Beccari" width="100%"/>
 
+<!-- Emoji animata che saluta -->
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="Ciao" width="60" height="60"/>
+
+<!-- Testo che si scrive e si cancella in loop -->
 <a href="https://github.com/MatteoBeccari05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=640&height=50&lines=Ciao%2C+sono+Matteo+%F0%9F%91%8B;Costruisco+e+interrogo+database+%F0%9F%97%84%EF%B8%8F;Faccio+comunicare+i+programmi+con+i+socket+%F0%9F%94%8C;Imparo+SQL%2C+PHP%2C+C+e+Java+ogni+giorno+%F0%9F%9A%80" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Ciao%2C+sono+Matteo+%E2%9C%A8;Costruisco+e+interrogo+database+%F0%9F%97%84%EF%B8%8F;Faccio+comunicare+i+programmi+con+i+socket+%F0%9F%94%8C;Imparo+SQL%2C+PHP%2C+C+e+Java+ogni+giorno+%F0%9F%9A%80;Benvenuto+nel+mio+profilo+%F0%9F%92%99" alt="Typing animation"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MatteoBeccari05&label=Visite&color=0e75b6&style=for-the-badge" alt="Visite"/>
+<!-- Badge del profilo -->
+<img src="https://komarev.com/ghpvc/?username=MatteoBeccari05&label=Visite+al+profilo&color=0e75b6&style=for-the-badge" alt="Visite"/>
 <img src="https://img.shields.io/github/followers/MatteoBeccari05?label=Follower&style=for-the-badge&color=2c5364&logo=github" alt="Follower"/>
-<img src="https://img.shields.io/badge/Polesella-Italia-009246?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localit&agrave;"/>
+<img src="https://img.shields.io/github/stars/MatteoBeccari05?label=Stelle&style=for-the-badge&color=f5c518&logo=github" alt="Stelle"/>
+<img src="https://img.shields.io/badge/Polesella-Italia-009246?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Località"/>
+
+<br/><br/>
+
+<!-- Tecnologie con icone -->
+<img src="https://skillicons.dev/icons?i=c,java,php,mysql,linux,git&perline=6" alt="Tecnologie"/>
+
+<!-- Linea decorativa sfumata -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3&section=header" width="100%" alt=""/>
 
 </div>
 
